@@ -1,0 +1,1 @@
+export const BaseUrl = 'https://customer-node.rupioo.com'
